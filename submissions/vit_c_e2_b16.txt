@@ -1,0 +1,12 @@
+Submission #278038
+
+
+vision transformer + early convolution, 2 epochs, batch_size=16, loss = dice loss
+F1 Score
+0.690
+Accuracy
+0.828
+
+Message
+
+Graded Successfully !

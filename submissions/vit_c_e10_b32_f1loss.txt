@@ -1,0 +1,12 @@
+#278143
+
+vision transformer + early convolution, 10 epochs, batch_size=32, loss = soft_f1_loss
+
+F1 Score
+0.524
+Accuracy
+0.792
+
+Message
+
+Graded Successfully !
