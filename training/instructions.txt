@@ -1,0 +1,1 @@
+Upload in this directory the train dataset (the path should be /training/images/satImage_001.png and /training/groundtruth/satImage_001.png for labels)
